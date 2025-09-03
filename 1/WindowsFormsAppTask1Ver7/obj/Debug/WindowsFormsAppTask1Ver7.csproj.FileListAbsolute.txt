@@ -1,0 +1,10 @@
+D:\newC#\WindowsFormsAppTask1Ver7\WindowsFormsAppTask1Ver7\bin\Debug\WindowsFormsAppTask1Ver7.exe.config
+D:\newC#\WindowsFormsAppTask1Ver7\WindowsFormsAppTask1Ver7\bin\Debug\WindowsFormsAppTask1Ver7.exe
+D:\newC#\WindowsFormsAppTask1Ver7\WindowsFormsAppTask1Ver7\bin\Debug\WindowsFormsAppTask1Ver7.pdb
+D:\newC#\WindowsFormsAppTask1Ver7\WindowsFormsAppTask1Ver7\obj\Debug\WindowsFormsAppTask1Ver7.csproj.AssemblyReference.cache
+D:\newC#\WindowsFormsAppTask1Ver7\WindowsFormsAppTask1Ver7\obj\Debug\WindowsFormsAppTask1Ver7.Form1.resources
+D:\newC#\WindowsFormsAppTask1Ver7\WindowsFormsAppTask1Ver7\obj\Debug\WindowsFormsAppTask1Ver7.Properties.Resources.resources
+D:\newC#\WindowsFormsAppTask1Ver7\WindowsFormsAppTask1Ver7\obj\Debug\WindowsFormsAppTask1Ver7.csproj.GenerateResource.cache
+D:\newC#\WindowsFormsAppTask1Ver7\WindowsFormsAppTask1Ver7\obj\Debug\WindowsFormsAppTask1Ver7.csproj.CoreCompileInputs.cache
+D:\newC#\WindowsFormsAppTask1Ver7\WindowsFormsAppTask1Ver7\obj\Debug\WindowsFormsAppTask1Ver7.exe
+D:\newC#\WindowsFormsAppTask1Ver7\WindowsFormsAppTask1Ver7\obj\Debug\WindowsFormsAppTask1Ver7.pdb
